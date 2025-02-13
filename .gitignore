@@ -46,3 +46,11 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+#### CUSTOM ########################################################
+
+# Tutor LMS
+/wp-content/*.json
+
+# All-in-One WP Migration
+/wp-content/ai1wm-backups
